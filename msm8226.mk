@@ -204,3 +204,7 @@ PRODUCT_PACKAGES += \
     libcurl \
     libqsap_sdk \
     libQWiFiSoftApCfg
+    
+# Offline charging
+PRODUCT_PACKAGES += \
+    charger_res_images
